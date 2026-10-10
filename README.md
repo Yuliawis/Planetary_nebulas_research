@@ -1,6 +1,6 @@
 # Planetary Nebulae Research
 
-Scientific research on planetary nebulae (PNe) using machine learning to predict physical and chemical properties from observational data.
+Scientific research on planetary nebulae (PNe) using machine learning to predict physical and chemical properties from observational data. (Junior Academy of Sciences)
 
 ## Overview
 
@@ -61,7 +61,3 @@ Typical workflow:
 - `scikit-learn`
 - Visualization: `matplotlib`, `seaborn`, `plotly`
 - (Some notebooks also explore other regressors / neural approaches)
-
-## License
-
-Scientific / educational research.
